@@ -1,2 +1,2 @@
 # linkedinclone
-A clone of linkedin
+Basic social media app.
